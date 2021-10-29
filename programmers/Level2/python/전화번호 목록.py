@@ -1,5 +1,3 @@
-from itertools import combinations
-
 def solution(phone_book):
     answer = True
     phone_book.sort()
